@@ -60,7 +60,7 @@ antigate.com API Laravel 5.1 package
 Зарегистрируйте слушатели `app/Providers/EventServiceProvider.php`:
 
     protected $listen = [
-        ...
+        //...
         'Redpic\Antigate\Events\CaptchaWasRecognized' => [
             'App\Listeners\CaptchaWasRecognizedListener',
         ],
