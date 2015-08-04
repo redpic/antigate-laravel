@@ -11,6 +11,8 @@ antigate.com API Laravel 5.1 package
         Redpic\Antigate\AntigateServiceProvider::class,
     ];
     
+Опубликуйте конфиг: `php artisan vendor:publish` и впишите в него токен доступа: `config/antigate.php`
+    
 Создайте два слушателя событий:
 
     php artisan make:listener test --event CaptchaWasRecognized
