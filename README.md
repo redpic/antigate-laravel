@@ -1,2 +1,2 @@
 # antigate-laravel
-antigate.com API laravel package
+antigate.com API Laravel 5.1 package
