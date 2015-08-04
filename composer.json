@@ -1,6 +1,6 @@
 {
     "name": "redpic/antigate",
-    "description": "antigate.com API laravel package",
+    "description": "antigate.com API Laravel 5.1 package",
     "type": "package",
     "require": {
         "illuminate/Support": "5.1.*",
