@@ -1,0 +1,21 @@
+{
+    "name": "redpic/antigate",
+    "description": "antigate.com API laravel package",
+    "type": "package",
+    "require": {
+        "illuminate/Support": "5.1.*",
+        "illuminate/Contracts": "5.1.*",
+        "illuminate/Queue": "5.1.*",
+        "illuminate/Support": "5.1.*",
+        "illuminate/bus": "5.1.*",
+        "guzzlehttp/guzzle": "^6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexei Fortuna",
+            "email": "aleksey.fortuna@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
